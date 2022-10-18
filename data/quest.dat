@@ -1,0 +1,16 @@
+quest{
+  solarus_version = "1.6",
+  write_dir = "porter",
+  title = "Porter",
+  short_description = "Work as an emergency responder tasked with preventing apocalyptic voidouts in this Death Stranding fangame",
+  long_description = [[
+]],
+  author = "Jane Lewis",
+  quest_version = "0.01",
+  release_date = "",
+  website = "",
+  normal_quest_size = "320x240",
+  min_quest_size = "320x240",
+  max_quest_size = "320x240",
+}
+
